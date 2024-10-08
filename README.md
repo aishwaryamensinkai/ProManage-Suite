@@ -64,7 +64,7 @@ Adjust the URLs if deploying on a different server.
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aishwaryamensinkai/ProManage-Suite.git
    cd ProManage-Suite
    ```
 
